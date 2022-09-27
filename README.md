@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm AmelloAster</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
-
-- 🔭 I’m currently working on **Accenture**
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="30"/> 你好 (Hi)🙏🏻, I'm AmelloAster! <img src="https://media.giphy.com/media/qy0iwNjQaU5OM/giphy.gif" width="50"></h2>
 
 - 🌱 I’m currently learning **Rust,Typescript,Lua**
 
 - 👨‍💻 All of my projects are available at [https://damagedcode.vercel.app/](https://damagedcode.vercel.app/)
 
 - 💬 Ask me about **React,Typescript,Miniprogram,Web**
-
-- 📫 How to reach me **comet_69@outlook.com**
 
 - ⚡ Fun fact **Game,Painting,Music,Movie,Book**
 
