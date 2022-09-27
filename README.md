@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="left">
+<div align="left" style="display:flex;gap:12px;">
   
 [![Instagram](https://img.shields.io/badge/AmelloAster-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/AmelloAster69/)
 
