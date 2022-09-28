@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **Rust,Typescript,Lua**
 
-- 👨‍💻 All of my projects are available at [https://damagedcode.vercel.app/](https://damagedcode.vercel.app/)
-
 - 💬 Ask me about **React,Typescript,Miniprogram,Web**
 
 - ⚡ Fun fact **Game,Painting,Music,Movie,Book**
@@ -14,6 +12,7 @@
   
 [![Instagram](https://img.shields.io/badge/AmelloAster-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/AmelloAster69/)
 [![Twitter](https://img.shields.io/badge/AmelloAster-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/AmelloAster/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://damagedcode.vercel.app/)](https://damagedcode.vercel.app/)
 [![github](https://img.shields.io/badge/AmelloAster-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmelloAster/)
 
 </div>  
