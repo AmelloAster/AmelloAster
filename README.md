@@ -1,10 +1,7 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="30"/> 你好 (Hi)🙏🏻, I'm AmelloAster! <img src="https://media.giphy.com/media/qy0iwNjQaU5OM/giphy.gif" width="50"></h2>
+![Header](./assets/images/github-header-image.png)
 
-- 🌱 I’m currently learning **Rust,Typescript,Lua**
-
-- 💬 Ask me about **React,Typescript,Miniprogram,Web**
-
-- ⚡ Fun fact **Game,Painting,Music,Movie,Book**
+Hello <img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="30"/>, welcome to my github I am AmelloAster and I tried most fields of programming such as web design and development, mobile application development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 5 years.
+And I like to explore and adventure, like to contact and learn new things, I like to constantly solve the problems found
 
 <h3 align="left">Connect with me:</h3>
 
