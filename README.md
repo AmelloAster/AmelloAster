@@ -18,7 +18,7 @@ And I like to explore and adventure, like to contact and learn new things, I lik
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C728%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C735%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ And I like to explore and adventure, like to contact and learn new things, I lik
 
 **🐱 My GitHub Data** 
 
-> 🏆 178 Contributions in the Year 2022
+> 🏆 182 Contributions in the Year 2022
  > 
 > 📦 20.1 kB Used in GitHub's Storage 
  > 
@@ -39,22 +39,22 @@ And I like to explore and adventure, like to contact and learn new things, I lik
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    37 commits     ██████████░░░░░░░░░░░░░░░   40.66% 
-🌃 Evening    34 commits     █████████░░░░░░░░░░░░░░░░   37.36% 
-🌙 Night      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
+🌆 Daytime    37 commits     ██████████░░░░░░░░░░░░░░░   39.78% 
+🌃 Evening    36 commits     █████████░░░░░░░░░░░░░░░░   38.71% 
+🌙 Night      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.53%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
-Tuesday      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Thursday     23 commits     ██████░░░░░░░░░░░░░░░░░░░   25.27% 
-Friday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Saturday     23 commits     ██████░░░░░░░░░░░░░░░░░░░   25.27% 
-Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
+Monday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Tuesday      11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
+Thursday     23 commits     ██████░░░░░░░░░░░░░░░░░░░   24.73% 
+Friday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Saturday     23 commits     ██████░░░░░░░░░░░░░░░░░░░   24.73% 
+Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 ```
 
@@ -65,17 +65,17 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.79% 
-JavaScript               10 hrs 1 min        █████████░░░░░░░░░░░░░░░░   36.84% 
-Vue.js                   5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
-Other                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+TypeScript               9 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.21% 
+JavaScript               8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   35.16% 
+Vue.js                   5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08% 
+Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
 
 🔥 Editors: 
-VS Code                  27 hrs 13 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 50 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      27 hrs 13 mins      █████████████████████████   100.0%
+Mac                      24 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2022 01:17:12 UTC
+ Last Updated on 22/10/2022 01:23:57 UTC
 <!--END_SECTION:waka-->
 
 &nbsp;
