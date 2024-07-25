@@ -23,9 +23,8 @@
 <div align="left" style="display:flex;gap:12px;">
 
 <a href="https://www.instagram.com/AmelloAster69/"><img src="https://img.shields.io/badge/AmelloAster-%23E4405F?style=for-the-badge&amp;logoColor=white&amp;logo=Instagram&amp;link=https://www.instagram.com/AmelloAster69/" alt="Instagram Badge"></a> 
-<a href="https://www.twitter.com/AmelloAster"><img src="https://img.shields.io/badge/AmelloAster-%231DA1F2?style=for-the-badge&amp;logoColor=white&amp;logo=Twitter&amp;link=https://www.twitter.com/AmelloAster" alt="Twitter Badge"></a> 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://damagedcode.vercel.app/)](https://damagedcode.vercel.app/)
-[![github](https://img.shields.io/badge/AmelloAster-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmelloAster/)
+<a href="https://www.twitter.com/AmelloAster"><img src="https://img.shields.io/badge/AmelloAster-%231DA1F2?style=for-the-badge&amp;logoColor=white&amp;logo=x&amp;link=https://www.twitter.com/AmelloAster" alt="Twitter Badge"></a>
+<a href="https://github.com/AmelloAster"><img src="https://img.shields.io/badge/AmelloAster-%12100E?style=for-the-badge&amp;logoColor=white&amp;logo=github&amp;link=https://github.com/AmelloAster" alt="Github Badge"></a> 
 
 </div>  
 
