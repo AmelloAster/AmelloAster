@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Aster<img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="30"/></h1>
-<h3 align="center">I am currently a Front-End Development Engineer at Accenture, based in Shanghai, China. I'm doing some side work, learning to draw.</h3>
+<h2>Hi 👋, I'm Aster<img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="30"/></h2>
+<p >I am currently a Front-End Development Engineer at Accenture, based in Shanghai, China. I'm doing some side work, learning to draw.</p>
 
-- 🔭 I’m currently working on Accenture [CPA](https://www.cathaypacific.com/)
-
-- 🌱 I’m currently learning **React, Angular, Vue, Typescript, Rust, NodeJS, Java**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AmelloAster?tab=repositories)
-
-- 💬 Ask me about **react, vue, angular, typescript**
+<p>🌱 Make it work, Make it right, Make it better 🌱</p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+  <li>
+    🔭 I’m currently working on Accenture <a href="https://www.cathaypacific.com/">CPA</a>  </li>
+  <li>
+    🌱 I’m currently learning **React, Angular, Vue, Typescript, Rust, NodeJS, Java**
+  </li>
+  <li>
+    👨‍💻 All of my projects are available at <a href="https://github.com/AmelloAster?tab=repositories">GitHub</a>
+  </li>
+  <li>
+    💬 Ask me about **react, vue, angular, typescript**
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
 <div align="left" style="display:flex;gap:12px;">
-  
-[![Instagram](https://img.shields.io/badge/AmelloAster-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/AmelloAster69/)
-[![Twitter](https://img.shields.io/badge/AmelloAster-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/AmelloAster/)
+
+<a href="https://www.instagram.com/AmelloAster69/"><img src="https://img.shields.io/badge/AmelloAster-%23E4405F?style=for-the-badge&amp;logoColor=white&amp;logo=Instagram&amp;link=https://www.instagram.com/AmelloAster69/" alt="Instagram Badge"></a> 
+<a href="https://www.twitter.com/AmelloAster"><img src="https://img.shields.io/badge/AmelloAster-%231DA1F2?style=for-the-badge&amp;logoColor=white&amp;logo=Twitter&amp;link=https://www.twitter.com/AmelloAster" alt="Twitter Badge"></a> 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://damagedcode.vercel.app/)](https://damagedcode.vercel.app/)
 [![github](https://img.shields.io/badge/AmelloAster-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmelloAster/)
 
